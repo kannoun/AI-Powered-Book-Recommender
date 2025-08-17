@@ -35,8 +35,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/kannoun/AI-Powered-Book-Recommender
+    cd AI-Powered-Book-Recommender
     ```
 
 2.  **Install the required libraries:**
