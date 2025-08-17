@@ -58,6 +58,6 @@ To run this project locally, follow these steps:
     ```
     The application will be available at a local URL (e.g., `http://127.0.0.1:7860`).
 
-### Screenshot
+### Screenshots
 ![Main Page Screenshot](Book_Reco.jpeg)
 ![Book_Info Screenshot](Book_Info.jpeg)
