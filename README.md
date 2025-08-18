@@ -58,6 +58,12 @@ To run this project locally, follow these steps:
     ```
     The application will be available at a local URL (e.g., `http://127.0.0.1:7860`).
 
+### 🚀 Live Demo on Hugging Face Spaces
+
+You can try out the book recommender live without any installation! The project is hosted as a public Space on Hugging Face.
+
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/KANNOUN/AI-Powered-Book-Recommender)
+
 ### Screenshots
 ![Main Page Screenshot](Book_Reco.jpeg)
 ![Book_Info Screenshot](Book_Info.jpeg)
